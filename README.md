@@ -33,3 +33,5 @@ While arrays are great for direct indexing, singly linked lists shine where freq
 Despite lacking backward traversal (a feature present in doubly linked lists), singly linked lists offer simplicity and efficiency where those constraints are acceptable.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8ec49a2c-9751-4b4d-8cab-407909bdde1f)
