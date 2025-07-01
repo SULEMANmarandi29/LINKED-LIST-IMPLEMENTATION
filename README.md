@@ -1,5 +1,17 @@
 # LINKED-LIST-IMPLEMENTATION
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: AMAN SULEMAN MARANDI
+
+INTERN ID: CT04DG658
+
+DOMAIN: C PROGRAMMING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
 A singly linked list is one of the foundational data structures in computer science, widely used due to its dynamic nature and efficient memory management. Implementing it in C using struct showcases not only its internal mechanics but also the power of pointers and memory handling in low-level programming. Unlike arrays, singly linked lists don't require contiguous memory allocation, making them ideal for scenarios where memory usage must be flexible and dynamic.
 
 # Structure and Core Concept
